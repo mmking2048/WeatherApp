@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "vandy.mooc"
+        minSdkVersion 19
+        targetSdkVersion 22
+    }
+
+    // WebServiceApiKey is defined in local.properties which
+    // is not pushed to the cloud or installed on the device.
+    Properties properties = new Properties()
+    properties.load(project.rootProject.file('local.properties').newDataInputStream())
+    def WEB_SERVICE_API_KEY = properties.getProperty('WebServiceApiKey') ?: '"WebServiceApiKey is not defined"'
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+
+        all {
+            buildConfigField 'String', 'WEB_SERVICE_API_KEY', WEB_SERVICE_API_KEY
+        }
+    }
+
+
+    testOptions {
+        unitTests.returnDefaultValues = true
+    }
+}
+
+dependencies {
+
+    // Unit testing dependencies
+    testCompile 'junit:junit:4.10'
+}

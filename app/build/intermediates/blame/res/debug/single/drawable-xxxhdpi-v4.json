@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_refresh_white_24dp.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_refresh_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_refresh_white_24dp.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_refresh_white_24dp.png"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_download.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_shape.xml",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable\\widget_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_shape.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable\\widget_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_download.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_border.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable\\edit_text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_border.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable\\edit_text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_download.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable\\ic_download.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_border.xml",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable\\edit_text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    }
+]

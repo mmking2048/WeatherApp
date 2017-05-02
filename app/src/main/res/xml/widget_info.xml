@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget_layout"
+    android:configure="vandy.mooc.widget.WidgetConfigureActivity"
+    android:minResizeHeight="36dp"
+    android:minResizeWidth="150dp"
+    android:minHeight="36dp"
+    android:minWidth="150dp"
+    android:updatePeriodMillis="3600000">
+
+    <!-- Need to set minHeight and minWidth or the blasted widget won't show up-->
+</appwidget-provider>

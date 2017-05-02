@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\configure_widget_activity.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\layout\\configure_widget_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_weather_activity.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\layout\\download_weather_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\configure_widget_activity.xml",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\layout\\configure_widget_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_weather_activity.xml",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\layout\\display_weather_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_weather_activity.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\layout\\download_weather_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_weather_activity.xml",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\layout\\download_weather_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_weather_activity.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\layout\\display_weather_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\display_weather_activity.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\layout\\display_weather_activity.xml"
+    }
+]

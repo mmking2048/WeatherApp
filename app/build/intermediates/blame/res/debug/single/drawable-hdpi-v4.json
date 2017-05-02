@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_storm.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_storm.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_fog.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\art_fog.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_rain.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_clear.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\art_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_pressed.9.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\item_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_light_clouds.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_light_clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_clear.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_light_clouds.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\art_light_clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_fog.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_fog.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_focused.9.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\item_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_light_rain.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_light_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_rain.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\art_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_pressed.9.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\item_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_focused.9.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\item_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_rain.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_snow.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_snow.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_clouds.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\art_clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_clear.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_light_clouds.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_light_clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_fog.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_fog.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_refresh_white_24dp.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\ic_refresh_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_clouds.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_pressed.9.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\item_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_refresh_white_24dp.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\ic_refresh_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_light_rain.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_light_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_focused.9.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\item_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_clouds.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_clouds.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_snow.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\art_snow.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_snow.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_snow.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_light_rain.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\art_light_rain.png"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_storm.png",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\A3-Android-App1\\app\\src\\main\\res\\drawable-hdpi\\art_storm.png"
+    },
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\art_storm.png",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\drawable-hdpi\\art_storm.png"
+    }
+]

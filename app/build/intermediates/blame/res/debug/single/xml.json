@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "C:\\Users\\Miche\\Desktop\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "C:\\Users\\Yang\\AndroidStudioProjects\\Weather App\\app\\src\\main\\res\\xml\\widget_info.xml"
+    }
+]
